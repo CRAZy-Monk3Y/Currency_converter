@@ -7,7 +7,7 @@ Converts one currency to another currency.
 
 # Currency_converter.md
 
-![](http://purepng.com/public/uploads/large/purepng.com-bitcoinobjectsbitcoinmoneycashcoinobjectgoldcurrencypaymentbitcoinvirtual-631522324013ysu8d.png)
+![](https://cdn4.iconfinder.com/data/icons/currency-exchange-1/100/currency-exchange-49-512.png)
 
 
 
