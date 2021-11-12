@@ -41,7 +41,7 @@ class CurrencyConvertor:
 
 # Driver code
 if __name__ == "__main__":
-    API_KEY = '#EnterYour API Key here. ' # To get API Key go to http://data.fixer.io/
+    API_KEY = '#EnterYour API Key here. ' # To get API Key go to https://fixer.io/signup/free
     url = str.__add__('http://data.fixer.io/api/latest?access_key=', API_KEY)
     c = CurrencyConvertor(url)
     from_country = input("From Country: ")
