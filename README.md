@@ -15,7 +15,7 @@ Converts one currency to another currency.
 
 
 
-###Links
+### Links
 
 [Fixer](https://fixer.io)
 
@@ -23,4 +23,6 @@ Converts one currency to another currency.
 
 
 
-###End
+#### About the maker
+
+<p>This app is made and maintained by &copy Tathagata Chakraborty.</p>
