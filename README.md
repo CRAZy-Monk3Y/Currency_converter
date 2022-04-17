@@ -2,6 +2,7 @@
 Converts different curreny and gives exchange rate.
 
 ![Size](https://img.shields.io/github/repo-size/CRAZy-Monk3Y/Currency_converter?style=plastic&color=0f0&label=Size)
+![Updated](https://img.shields.io/github/last-commit/CRAZy-Monk3Y/Currency_converter?style=plastic&color=f00&label=Updated)
 
 ### Feature
 
