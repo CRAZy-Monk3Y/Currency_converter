@@ -1,5 +1,8 @@
 # Currency_converter
 Converts different curreny and gives exchange rate.
+
+![Size](https://img.shields.io/github/repo-size/CRAZy-Monk3Y/Currency_converter?style=plastic&color=0f0&label=Size)
+
 ### Feature
 
 Converts one currency to another currency. 
